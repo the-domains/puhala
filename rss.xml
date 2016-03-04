@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Puhala Musings]]></title>
+        <description><![CDATA[Michael Puhala Musings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 22:59:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Puhala.com has always been a bit of an experiment. I've owned the domain name since 1997 and it has gone through constant iterations and attempts at personal expression. Photography, Blogging, Social content -- or a mashup of the three.</p>]]></description>
+            <link>undefined024a6d00-e281-41cb-9fa5-9492c15665dc/index.html</link>
+            <guid isPermaLink="false">024a6d00-e281-41cb-9fa5-9492c15665dc</guid>
+            <pubDate>Fri, 04 Mar 2016 22:59:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
