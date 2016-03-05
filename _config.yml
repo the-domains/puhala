@@ -1,29 +1,41 @@
-name: puhala.com
-favicon: null
-layout_spectrum: 0.52244
-typography_spectrum: 0.9466083110310137
 title: Michael Puhala
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1875
+  brandStrength: 0.1875
+  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#e4e8eb'
     - '#c0bbbf'
     - '#5d5155'
     - '#5e9ba3'
-  brandStrength: 0.1875
   lightness: 0.6019515316002071
-  saturation: 0.1875
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: puhala.com
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9466083110310137
+layout_spectrum: 0.2504216
