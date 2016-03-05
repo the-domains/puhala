@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Michael Puhala]]></title>
         <description><![CDATA[Michael Puhala]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://puhala.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:17:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 02:28:19 GMT</lastBuildDate>
+        <atom:link href="http://puhala.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[puhala.com reboot]]></title>
-            <description><![CDATA[<article><h1>puhala.com reboot</h1><p>Puhala.com has always been a bit of an experiment. I've owned the domain name since 1997 and it has gone through constant iterations and attempts at personal expression. Photography, Blogging, Social content -- or a mashup of the three.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70e175c-cddb-4f7b-ab78-7540ca43f7e0.jpg"></article>]]></description>
-            <link>undefinedpuhalacom-reboot/index.html</link>
+            <description><![CDATA[<article><h1>puhala.com reboot</h1><p>Puhala.com has always been a bit of an experiment. I've owned the domain name since 1997 and it has gone through constant iterations and attempts at personal expression. Photography, blogging, social content -- or a mashup of the three.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af9e5ba2e607e9649edda71c060a8c91461c393.jpg"></article>]]></description>
+            <link>http://puhala.com/puhalacom-reboot/index.html</link>
             <guid isPermaLink="false">0bb6b0bc-773e-4a2b-9a0c-9704cf826e58</guid>
-            <pubDate>Sat, 05 Mar 2016 02:14:43 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 02:28:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
